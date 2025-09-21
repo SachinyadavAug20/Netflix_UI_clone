@@ -2,3 +2,5 @@
 /mylogs.log
 # this ignores all files everwhere with .log extension
 *.log
+# to ignore a entire directory
+ignore/
