@@ -1,2 +1,4 @@
+# this is to ignore files in folder where gitignore is present
 /mylogs.log
+# this ignores all files everwhere with .log extension
 *.log
